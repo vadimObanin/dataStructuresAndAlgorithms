@@ -92,8 +92,3 @@ class LinkedList {
         }
     }
 }
-
-let list = new LinkedList();
-list.append("hi");
-list.prepend("fdfdfdfdf");
-console.log(list)
